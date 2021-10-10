@@ -30,6 +30,10 @@
 
 		?>
 
+		<?php
+			// This echo functions return the string in the quotes as HTML which is then sent to the browser.
+			echo "<h1>Hello, world!</h1>";
+		?>
 	
 
 		</article><!--MAIN CONTENT-->
